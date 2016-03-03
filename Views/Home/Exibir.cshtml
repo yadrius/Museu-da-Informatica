@@ -1,0 +1,51 @@
+﻿@model List<Museu_da_Informática.Models.Edit_Item>
+
+@{
+    ViewBag.Title = "Exibir";
+}
+
+<h2>Exibir</h2>
+
+<p>
+    @Html.ActionLink("Cadastrar novo item", "Cadastro")
+</p>
+<table class="table">
+    <tr>
+        <th></th>
+    </tr>
+
+    @if(Model != null)
+    { 
+foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.Label(item.ID.ToString())
+        </td>
+        <td>
+            @Html.Label(item.ProductName.ToString())
+        </td>
+        <td>
+            @Html.Label(item.ProductDescription.ToString())
+        </td>
+        <td>
+            @Html.Label(item.ProductType.ToString())
+        </td>
+        <td>
+            @Html.Label(item.ProductDate.ToString())
+        </td>
+        <td>
+            @Html.CheckBox("Excluido",item.Exclude, new { @disabled = "disabled" })
+        </td>
+       
+    </tr>
+        }
+    }
+    else
+    {
+       <tr >
+            <td>
+                <p>Não á items a serem mostrados</p>
+            </td>
+    </tr>
+    }
+</table>

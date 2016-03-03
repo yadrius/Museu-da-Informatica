@@ -1,0 +1,42 @@
+D:\users\marcus\documents\visual studio 2015\Projects\Museu da Informática\Museu da Informática\obj\Debug\Museu da Informática.csprojResolveAssemblyReference.cache
+D:\users\marcus\documents\visual studio 2015\Projects\Museu da Informática\Museu da Informática\bin\roslyn\csc.exe
+D:\users\marcus\documents\visual studio 2015\Projects\Museu da Informática\Museu da Informática\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\users\marcus\documents\visual studio 2015\Projects\Museu da Informática\Museu da Informática\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\users\marcus\documents\visual studio 2015\Projects\Museu da Informática\Museu da Informática\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\users\marcus\documents\visual studio 2015\Projects\Museu da Informática\Museu da Informática\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\users\marcus\documents\visual studio 2015\Projects\Museu da Informática\Museu da Informática\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\users\marcus\documents\visual studio 2015\Projects\Museu da Informática\Museu da Informática\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\users\marcus\documents\visual studio 2015\Projects\Museu da Informática\Museu da Informática\bin\roslyn\System.Collections.Immutable.dll
+D:\users\marcus\documents\visual studio 2015\Projects\Museu da Informática\Museu da Informática\bin\roslyn\System.Reflection.Metadata.dll
+D:\users\marcus\documents\visual studio 2015\Projects\Museu da Informática\Museu da Informática\bin\roslyn\vbc.exe
+D:\users\marcus\documents\visual studio 2015\Projects\Museu da Informática\Museu da Informática\bin\roslyn\VBCSCompiler.exe
+D:\users\marcus\documents\visual studio 2015\Projects\Museu da Informática\Museu da Informática\bin\roslyn\VBCSCompiler.exe.config
+D:\users\marcus\documents\visual studio 2015\Projects\Museu da Informática\Museu da Informática\bin\Museu da Informática.dll.config
+D:\users\marcus\documents\visual studio 2015\Projects\Museu da Informática\Museu da Informática\bin\Museu da Informática.dll
+D:\users\marcus\documents\visual studio 2015\Projects\Museu da Informática\Museu da Informática\bin\Museu da Informática.pdb
+D:\users\marcus\documents\visual studio 2015\Projects\Museu da Informática\Museu da Informática\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\users\marcus\documents\visual studio 2015\Projects\Museu da Informática\Museu da Informática\bin\System.Web.Helpers.xml
+D:\users\marcus\documents\visual studio 2015\Projects\Museu da Informática\Museu da Informática\bin\System.Web.Mvc.xml
+D:\users\marcus\documents\visual studio 2015\Projects\Museu da Informática\Museu da Informática\bin\System.Web.Optimization.xml
+D:\users\marcus\documents\visual studio 2015\Projects\Museu da Informática\Museu da Informática\bin\System.Web.Razor.xml
+D:\users\marcus\documents\visual studio 2015\Projects\Museu da Informática\Museu da Informática\bin\System.Web.WebPages.xml
+D:\users\marcus\documents\visual studio 2015\Projects\Museu da Informática\Museu da Informática\bin\System.Web.WebPages.Deployment.xml
+D:\users\marcus\documents\visual studio 2015\Projects\Museu da Informática\Museu da Informática\bin\System.Web.WebPages.Razor.xml
+D:\users\marcus\documents\visual studio 2015\Projects\Museu da Informática\Museu da Informática\bin\Antlr3.Runtime.pdb
+D:\users\marcus\documents\visual studio 2015\Projects\Museu da Informática\Museu da Informática\bin\Newtonsoft.Json.xml
+D:\users\marcus\documents\visual studio 2015\Projects\Museu da Informática\Museu da Informática\bin\EntityFramework.xml
+D:\users\marcus\documents\visual studio 2015\Projects\Museu da Informática\Museu da Informática\bin\EntityFramework.SqlServer.xml
+D:\users\marcus\documents\visual studio 2015\Projects\Museu da Informática\Museu da Informática\bin\Microsoft.AspNet.Identity.Core.xml
+D:\users\marcus\documents\visual studio 2015\Projects\Museu da Informática\Museu da Informática\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\users\marcus\documents\visual studio 2015\Projects\Museu da Informática\Museu da Informática\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\users\marcus\documents\visual studio 2015\Projects\Museu da Informática\Museu da Informática\bin\Microsoft.Owin.xml
+D:\users\marcus\documents\visual studio 2015\Projects\Museu da Informática\Museu da Informática\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\users\marcus\documents\visual studio 2015\Projects\Museu da Informática\Museu da Informática\bin\Microsoft.Owin.Security.xml
+D:\users\marcus\documents\visual studio 2015\Projects\Museu da Informática\Museu da Informática\bin\Microsoft.Owin.Security.Facebook.xml
+D:\users\marcus\documents\visual studio 2015\Projects\Museu da Informática\Museu da Informática\bin\Microsoft.Owin.Security.Cookies.xml
+D:\users\marcus\documents\visual studio 2015\Projects\Museu da Informática\Museu da Informática\bin\Microsoft.Owin.Security.OAuth.xml
+D:\users\marcus\documents\visual studio 2015\Projects\Museu da Informática\Museu da Informática\bin\Microsoft.Owin.Security.Google.xml
+D:\users\marcus\documents\visual studio 2015\Projects\Museu da Informática\Museu da Informática\bin\Microsoft.Owin.Security.Twitter.xml
+D:\users\marcus\documents\visual studio 2015\Projects\Museu da Informática\Museu da Informática\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\users\marcus\documents\visual studio 2015\Projects\Museu da Informática\Museu da Informática\obj\Debug\Museu da Informática.dll
+D:\users\marcus\documents\visual studio 2015\Projects\Museu da Informática\Museu da Informática\obj\Debug\Museu da Informática.pdb

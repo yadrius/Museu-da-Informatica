@@ -1,0 +1,71 @@
+﻿@model IEnumerable<Museu_da_Informática.Models.Cadastro_Pecas>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Cadastrar novo", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.tipo)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.marca)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.modelo)
+        </th>
+     
+        <th>
+            @Html.DisplayNameFor(model => model.memoria)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ano_fabricacao)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.diponibilidade_venda)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.diponibilidade_visual)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.tipo)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.marca)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.modelo)
+        </td>
+      
+        <td>
+            @Html.DisplayFor(modelItem => item.memoria)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.ano_fabricacao)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.diponibilidade_venda)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.diponibilidade_visual)
+        </td>
+        <td>
+            @Html.ActionLink("Editar", "Edit", new { id=item.id }) |
+            @Html.ActionLink("Detalhes", "Details", new { id=item.id }) |
+           
+        </td>
+    </tr>
+}
+
+</table>
